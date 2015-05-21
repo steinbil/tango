@@ -542,7 +542,7 @@ a.pagination-item:hover {
 .theme-base-0h .sidebar,
 .theme-base-0h .sidebar-toggle:active,
 .theme-base-0h #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: black;
+  background-color: #61091E;
 }
 .theme-base-0h .container a,
 .theme-base-0h .sidebar-toggle,
