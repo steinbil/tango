@@ -537,3 +537,15 @@ a.pagination-item:hover {
 .theme-base-0g .related-posts li a:hover {
   color: black;
 }
+
+/* Dark red */
+.theme-base-h .sidebar,
+.theme-base-h .sidebar-toggle:active,
+.theme-base-h #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: black;
+}
+.theme-base-h .container a,
+.theme-base-h .sidebar-toggle,
+.theme-base-h .related-posts li a:hover {
+  color: #61091E;
+}
